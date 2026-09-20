@@ -1,5 +1,5 @@
 # DigitalSkills_Lab3_4959030073
-#THÔNG TIN CÁ 
+#THÔNG TIN CÁ NHÂN
 -HỌ VÀ TÊN :NGÔ THỊ HÀ MY
 -MSSV:4959030073
 -LỚP : K49C-GDMN
